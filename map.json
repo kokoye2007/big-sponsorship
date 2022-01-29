@@ -986,10 +986,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":8320,
-         "source":"signage.tsj"
-        }, 
-        {
          "columns":31,
          "firstgid":8520,
          "image":"src\/assets\/com_cor.png",
