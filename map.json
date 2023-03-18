@@ -394,7 +394,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/varcamp\/2022\/webinar\/#entry-corner"
+                 "value":"\/@\/varcamp\/2022\/webinar#entry-corner"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -588,7 +588,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/varcamp\/2022\/webinar\/#entry-corner"
+                 "value":"\/@\/varcamp\/2022\/webinar#entry-corner"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -685,7 +685,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/varcamp\/2022\/vr\/#start"
+                 "value":"\/@\/varcamp\/2022\/vr"
                 }],
          "type":"tilelayer",
          "visible":true,
